@@ -83,8 +83,7 @@ section.imagem > p {
 }
 
 section#img01 {
-    background-image: url(imagens/background.png);
-    backgroud-size: cover;
+  background-image: url(imagens/background.png);
     
 }
 
