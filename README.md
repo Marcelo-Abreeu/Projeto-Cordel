@@ -16,5 +16,5 @@ Esse projeto foi feito no curso do professor Gustavo Guanabara. Módulo 3 de HTM
 
   
 
-:link:[Página do website](https://abreu-marcelo.github.io/Projeto-Cordel/)
+:link:[Página do website](https://marcelo-abreeu.github.io/Projeto-Cordel/)
 
