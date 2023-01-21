@@ -2,7 +2,7 @@
   ©️ Cordel Moderno
 </h1>
 
-<img src="imagens/CORDEL-MODERNO.jpeg">
+<img src="imagens/cordel.gif">
 
 ## 📝 Descrição 
 
