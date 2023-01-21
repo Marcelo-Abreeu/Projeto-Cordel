@@ -1,20 +1,29 @@
+ <h1 align="center">
+  ©️ Cordel Moderno
+</h1>
 
-## [![DevSuperior logo](https://raw.githubusercontent.com/devsuperior/bds-assets/main/ds/devsuperior-logo-small.png)](https://raw.githubusercontent.com/devsuperior/bds-assets/main/ds/devsuperior-logo-small.png)  Projeto Cordel Moderno. 
+<img src="imagens/CORDEL-MODERNO.jpeg>
 
-​                                                                <img src="imagens/CORDEL-MODERNO.jpeg" alt="img" style="zoom: 50%;" />    
-##### Direitos Reservados a Milton Duarte.
+## 📝 Descrição 
 
-Esse projeto foi feito no curso do professor Gustavo Guanabara. Módulo 3 de HTML e CSS.
+Literatura de cordel, projeto desenvolvido durante o curso de HTML e CSS do curso em vídeo.
 
+- Versão Final: [Cordel Moderno](https://marcelo-abreeu.github.io/Cordel-Moderno/)
 
-###### Tecnologias Usadas.
+## 🚀 Tecnologias
 
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- `HTML`
+- HTML
+- CSS
 
-- `CSS`
+## 📚 Bibliotecas
 
+- [Google Fonts](https://fonts.google.com/)
+
+-----
+
+  <h3 align="center"> Developed by <a href="#">Marcelo Abreu</a> ☕</h3>
   
 
-:link:[Página do website](https://marcelo-abreeu.github.io/Projeto-Cordel/)
-
+​                                                                <img src="imagens/CORDEL-MODERNO.jpeg" alt="img" style="zoom: 5
